@@ -2,7 +2,7 @@
 -------------------------------------------------------
 Linked version of the BST ADT - Exam
 -------------------------------------------------------
-Author: 
+Author: Your Full Name
 ID:     190401010
 Email:  name1010@mylaurier.ca
 __updated__ = "2022-04-06"
